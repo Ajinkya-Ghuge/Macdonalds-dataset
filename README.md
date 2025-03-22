@@ -1,1 +1,1 @@
-This project appears to be about customer segmentation for macdonalds using K-means clustering. 
+This project appears to be about customer segmentation for macdonalds using K-means clustering. This type of analysis helps McDonalds identify valuable customer groups and decide which segments to focus marketing efforts on.
